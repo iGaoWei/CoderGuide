@@ -12,29 +12,47 @@ CoderGuide
 - 本仓库持续更新中，后续会陆续分享更多求职面试资料、编程资源书籍，强烈建议大家 `Star` 下本仓库，求职面试再也不愁 ！
 - 更多资源内容可以关注[微信公众号【DreamCoders】](#更多分享)，第一时间获取最新资料。
 
-## 🤡 欢迎投稿
+## 🙈 欢迎投稿
 
 欢迎大家共同完善这个项目，让免费资源不再难找！您可以通过以下方式提供： `赠人玫瑰，手有余香`
 
 * 使用 [Issues](https://gitee.com/DreamCoders/CoderGuide/issues/new) 提交
 * 使用 [Pull Request](https://gitee.com/DreamCoders/CoderGuide/pulls) 提交
 
-收集整理不易，如果觉得对你有对您有帮助，欢迎 `Watch`、`Star`。当然也可以请我喝杯咖啡：
+收集整理不易，如果觉得对你有对您有帮助，欢迎 `Watch`、`Star`，当然也可以请我喝杯[咖啡](https://gitee.com/iGaoWei/big-data-view/raw/master/preview/wechat-code.png)，感谢支持。
 
 
 ## 🤡 题库分类
 
+### 前端面试题
+
+<h3 style="text-align: center">JavaScript系列</h3>
+
+| JavaScript面试题  | 链接地址                  |
+|----------------|-----------------------|
+| 变量和数据类型       | [:mag:点击直达](#更多分享)    |
+| 流程控制语句        | [:mag:点击直达](#更多分享)    |
+| 函数基础           | [:mag:点击直达](#更多分享)    |
+| 类和对象           | [:mag:点击直达](#更多分享)    |
+| 数组和集合         | [:mag:点击直达](#更多分享)    |
+| 字符串操作          | [:mag:点击直达](#更多分享)    |
+| 常用内置对象         | [:mag:点击直达](#更多分享)    |
+| 原型函数和原型链      | [:mag:点击直达](#更多分享)    |
+| 任务队列和事件循环     | [:mag:点击直达](#更多分享)    |
+| 异步编程           | [:mag:点击直达](#更多分享)    |
+| 闭包             | [:mag:点击直达](#更多分享)    | 
+| ES6新特性         | [:mag:点击直达](#更多分享)    | 
 
 
 
-<h3 style="text-align: center">设计模式系列</h3>
 
-- [面试官：说说对设计模式的理解？常见的设计模式有哪些？](https://github.com/febobo/web-interview/issues/290)
-- [面试官：说说你对单例模式的理解？如何实现？](https://github.com/febobo/web-interview/issues/291)
-- [面试官：说说你对工厂模式的理解？应用场景？](https://github.com/febobo/web-interview/issues/292)
-- [面试官：说说你对策略模式的理解？应用场景？](https://github.com/febobo/web-interview/issues/293)
-- [面试官：说说你对代理模式的理解？应用场景？](https://github.com/febobo/web-interview/issues/294)
-- [面试官：说说你对发布订阅、观察者模式的理解？区别？](https://github.com/febobo/web-interview/issues/295)
+### JavaScript面试题
+- [面试官：说说对设计模式的理解？常见的设计模式有哪些？](#更多分享)
+- [面试官：说说你对单例模式的理解？如何实现？](#更多分享)
+- [面试官：说说你对工厂模式的理解？应用场景？](#更多分享)
+- [面试官：说说你对策略模式的理解？应用场景？](#更多分享)
+- [面试官：说说你对代理模式的理解？应用场景？](#更多分享)
+- [面试官：说说你对发布订阅、观察者模式的理解？区别？](#更多分享)
 
 
 ## 版权声明
