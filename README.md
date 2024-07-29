@@ -26,35 +26,19 @@ CoderGuide
 
 ### 前端面试题
 
-#### JavaScript系列
-- [变量和数据类型](#JavaScript面试题)
-- [流程控制语句](#JavaScript面试题)
-- [函数基础](#JavaScript面试题)
-- [类和对象](#JavaScript面试题)
-- [数组和集合](#JavaScript面试题)
-- [字符串操作](#JavaScript面试题)
-- [常用内置对象](#JavaScript面试题)
-- [原型函数和原型链](#JavaScript面试题)
-- [任务队列和事件循环](#JavaScript面试题)
-- [异步编程](#JavaScript面试题)
-- [闭包](#JavaScript面试题)
-- [ES6新特性](#JavaScript面试题)
 
+#### [Html/JS/CSS面试题](#https://gitee.com/DreamCoders/CoderGuide/issues?label_ids=260148862&label_text=Html%2FJS%2FCSS&state=open)
+#### [Vue面试题](#https://gitee.com/DreamCoders/CoderGuide/issues?label_ids=260150634&label_text=Vue&state=open)
+#### [React面试题](#https://gitee.com/DreamCoders/CoderGuide/issues?label_ids=260151454&label_text=React)
+#### [IOS面试题](#https://gitee.com/DreamCoders/CoderGuide/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=260150514&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=DreamCoders%2FCoderGuide&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=)
+#### [Node面试题](#https://gitee.com/DreamCoders/CoderGuide/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=260148595&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=DreamCoders%2FCoderGuide&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=)
+#### [Typescript面试题](#https://gitee.com/DreamCoders/CoderGuide/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=260150254&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=DreamCoders%2FCoderGuide&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=)
+#### [微信小程序面试题](#https://gitee.com/DreamCoders/CoderGuide/issues?label_ids=260147494&label_text=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 
-
-
-### JavaScript面试题
-- [面试官：说说对设计模式的理解？常见的设计模式有哪些？](#更多分享)
-- [面试官：说说你对单例模式的理解？如何实现？](#更多分享)
-- [面试官：说说你对工厂模式的理解？应用场景？](#更多分享)
-- [面试官：说说你对策略模式的理解？应用场景？](#更多分享)
-- [面试官：说说你对代理模式的理解？应用场景？](#更多分享)
-- [面试官：说说你对发布订阅、观察者模式的理解？区别？](#更多分享)
 
 
 
 ## 更多分享
----------
 
 |                                                     微信小程序                                                      |                            公众号                            |                                                        小程序                                                        |
 |:--------------------------------------------------------------------------------------------------------------:| :----------------------------------------------------------: |:-----------------------------------------------------------------------------------------------------------------:|
