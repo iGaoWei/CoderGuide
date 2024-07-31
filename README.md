@@ -683,7 +683,34 @@ CoderGuide
 
 #### [微信小程序面试题](https://gitee.com/DreamCoders/CoderGuide/issues?label_ids=260147494&label_text=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 
-
+- [面试官：请谈谈wxml与标准的html的异同？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9HT)
+- [面试官：请谈谈WXSS和CSS的异同？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9HV)
+- [面试官：说说你对微信小程序的理解? 优缺点?](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9HU)
+- [面试官：微信小程序自定义tabbar的理解？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9HW)
+- [面试官：web-view是什么？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9HY)
+- [面试官：微信小程序怎么缓存数据？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9HX)
+- [面试官：微信小程序有哪些传值(传递数据)方法？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9I0)
+- [面试官：微信小程序生命周期的理解？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9HZ)
+- [面试官：bindtap和catchtap的区别？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9I1)
+- [面试官：微信小程序所有api放在哪里，简单介绍几个api？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9I4)
+- [面试官：微信小程序怎么进行网络请求？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9I3)
+- [面试官：微信小程序授权登录流程？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9I6)
+- [面试官：微信小程序应用和页面生命周期触发顺序？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9I5)
+- [面试官：微信小程序的双向绑定和vue的异同？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9I9)
+- [面试官：微信小程序路由跳转以及传参如何实现？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9I7)
+- [面试官：微信小程序性能和体验优化方法](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9IB)
+- [面试官：小程序如果版本更新了怎么通知用户？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9ID)
+- [面试官：小程序怎么获取手机号？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9IC)
+- [面试官：小程序嵌入H5页面怎么做？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9IE)
+- [面试官：微信小程序与vue区别与联系](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9IG)
+- [面试官：小程序关联微信公众号如何确定用户的唯一性](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9IF)
+- [面试官：webview的页面怎么跳转到小程序导航的页面？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9II)
+- [面试官：小程序调用后台接口遇到哪些问题？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9IH)
+- [面试官：微信小程序的发布流程？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9IL)
+- [面试官：微信小程序如何实现下拉刷新](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9IK)
+- [面试官：微信小程序的实现原理？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9IN)
+- [面试官：微信小程序的支付流程？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9IM)
+- [面试官：提高微信小程序的应用速度的手段有哪些？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9IO)
 
 
 ## 更多分享
