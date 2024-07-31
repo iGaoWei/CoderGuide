@@ -1,5 +1,6 @@
 CoderGuide
 ============================
+<img src="https://jsd.onmicrosoft.cn/gh/iGaoWei/codercdn@master/img/CoderGuide.gif" width="100%" height="100%" />
 
 ## 🤠仓库简介
 
