@@ -3,9 +3,9 @@ CoderGuide
 
 ## 🤠仓库简介
 
-`CoderGuide`是一个收集计算机领域前后端求职面试的开源项目，作为一名互联网/IT从业人员，经常需要搜索一些书籍、面试题等资源，在这个过程中踩过很多坑、浪费过很多时间。欢迎大家 `Watch`、`Star`，供各位同学免费使用，永不收费！
+`CoderGuide`是一个针对同学们前后端求职面试的开源项目，作为一名互联网/IT从业人员，经常需要搜索一些书籍、面试题等资源，在这个过程中踩过很多坑、浪费过很多时间。欢迎大家 `Watch`、`Star`，供各位同学免费使用，永不收费！
 
-我们的目标是做最全最好最有质量的面试题库，用心收录大厂面试题，高频面试题，知识点面试题，用心做好每一道题，打造全网最高质量题库。
+我们的目标是做最全最好最有质量的面试题库，用心收录高频面试题，知识点面试题，大厂面试题，用心做好每一道题，山不在高，有仙则灵，题不在多，精品就行！打造全网最高质量题库。
 
 - 以下所有编程面试题库，除特别声明本人原创以外，均收集于网络或来自码友投稿，仅供学习交流，欢迎大家积极投稿。
 - 涵盖范围包括且不限于：前端面试题(Vue，React，JS，HTTP，HTML，CSS面试题等)，后端面试题(Java，Python，Golang，PHP，Linux，Mysql面试题等)，以及算法面试题，大厂面试题，高频面试题，校招面试题等，你想要的，这里都有！
@@ -614,7 +614,7 @@ CoderGuide
 - [面试官：oc中的协议和java中的接口概念有何不同？](https://gitee.com/DreamCoders/CoderGuide/issues/IAGA3Z)
 
 #### [Node面试题](https://gitee.com/DreamCoders/CoderGuide/issues?assignee_id=&author_id=&branch=&collaborator_ids=&issue_search=&label_ids=260148595&label_text=&milestone_id=&priority=&private_issue=&program_id=&project_id=DreamCoders%2FCoderGuide&project_type=&scope=&single_label_id=&single_label_text=&sort=&state=open&target_project=)
-- 
+
 - [面试官：什么是 Node. js？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9LI)
 - [面试官：浏览器和 Node 中的事件循环有什么区别？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9KO)
 - [面试官：Node性能如何进行监控以及优化？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9KP)
@@ -713,14 +713,35 @@ CoderGuide
 - [面试官：提高微信小程序的应用速度的手段有哪些？](https://gitee.com/DreamCoders/CoderGuide/issues/IAG9IO)
 
 
+### 后端面试题
+
+#### [Java面试题](#更多分享)
+- 待更新
+#### [Python面试题](#更多分享)
+- 待更新
+#### [Golang面试题](#更多分享)
+- 待更新
+#### [PHP面试题](#更多分享)
+- 待更新
+
+### 数据库专栏
+#### [Mysql面试题](#更多分享)
+- 待更新
+#### [Redis面试题](#更多分享)
+- 待更新
+#### [ElasticSearch面试题](#更多分享)
+- 待更新
+
 
 ## 更多分享
 
-|                                                     微信小程序                                                      |                            公众号                            |                                                        小程序                                                        |
-|:--------------------------------------------------------------------------------------------------------------:| :----------------------------------------------------------: |:-----------------------------------------------------------------------------------------------------------------:|
+|                                                     微信公众号                                                      |                                                         微信小程序                                                         |                                                        赞赏码                                                        |
+|:--------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
 | <img src="https://jsd.onmicrosoft.cn/gh/iGaoWei/codercdn@master/img/更多内容关注公众号.jpg" width="158" height="158" /> | <img src="https://jsd.onmicrosoft.cn/gh/iGaoWei/codercdn@master/img/更多内容关注公众号.jpg" width="158" height="158" alt="" /> | <img src="https://jsd.onmicrosoft.cn/gh/iGaoWei/codercdn@master/img/赞赏码.jpg" width="158" height="158" alt="小程序"/> |
-|                                                      码农宝库                                                      |                         DreamCoders                         |                                                    DreamCoders                                                    |
+|                                                      DreamCoders                                                      |                                                         码农宝库                                                          |                                                       感谢支持                                                        |
+
+
 ## 版权声明
 
-- 添加本仓库地址注明出处可随意转载仓库内所有内容
-- 本仓库所有内容永不收取任何费用，现在不会，未来也不会，也不会授权任何人/机构进行收费
+- 添加本仓库地址注明出处可随意转载仓库内所有内容。
+- 本仓库内所有内容永不收取任何费用，也不会授权任何人/机构进行收费，现在不会，未来也不会！
